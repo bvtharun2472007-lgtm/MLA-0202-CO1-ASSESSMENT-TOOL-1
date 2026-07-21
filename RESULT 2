@@ -1,0 +1,14 @@
+StudyHours  Attendance  InternalMarks  AssignmentScore  FinalMarks
+0           2          80             20               18          55
+1           4          85             25               20          65
+2           6          90             28               24          78
+3           8          95             30               25          90
+4           5          88             27               22          72
+
+Training Data Shape: (4, 4)
+Testing Data Shape: (1, 4)
+
+Predicted Final Marks:
+[71.8]
+
+R² Accuracy Score = 0.96
